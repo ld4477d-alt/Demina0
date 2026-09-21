@@ -1,3 +1,3 @@
 # Demina0
 main.py - точка входа в программу, src/ - вспомогательные модули, docs/ - документация.
-#Commit changes
+# Commit changes
